@@ -1,5 +1,7 @@
 # download_ebooks
-Scripts to automate the downloading of springer ebooks offered for free during COVID pandemic.
+### Scripts to automate the downloading of springer ebooks offered for free during COVID pandemic.
+
+Download or clone this repository, and `pip install -r requirements.txt`
 
 If you run the Jupyter notebook, you can select the home directory and see how the ebooks are found and downloaded.
 
