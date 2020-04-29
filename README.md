@@ -5,6 +5,4 @@ If you run this notebook it will reach out and snag all the notebooks, just spec
 
 If you run the script, make sure it’s in the directory you want the books to go.
 
-You’ll likely need to `pip install beautifulsoup4 lxml`.
-
 Enjoy!
